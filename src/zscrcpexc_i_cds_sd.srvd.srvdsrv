@@ -1,0 +1,4 @@
+@EndUserText.label: 'Geography Exception Supply Chain Regulatory Compliance Plan'
+define service ZSCRCPEXC_I_CDS_SD {
+  expose ZSCRCPEXC_I_CDS;
+}

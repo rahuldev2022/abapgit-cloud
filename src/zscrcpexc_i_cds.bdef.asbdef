@@ -1,0 +1,15 @@
+unmanaged implementation in class zbp_scrcpexc_i_cds unique;
+//strict; //Comment this line in to enable strict mode. The strict mode is prerequisite to be future proof regarding syntax and to be able to release your BO.
+
+define behavior for ZSCRCPEXC_I_CDS //alias <alias_name>
+//late numbering
+//lock master
+//authorization master ( instance )
+//etag master <field_name>
+
+{
+//field ( features : instance ) date1 , date2;
+  create;
+  update;
+  delete;
+}

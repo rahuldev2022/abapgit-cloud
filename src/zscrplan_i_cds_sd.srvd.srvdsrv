@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for SECRPLAN'
+define service ZSCRPLAN_I_CDS_SD {
+  expose ZSCRPLAN_I_CDS;
+}

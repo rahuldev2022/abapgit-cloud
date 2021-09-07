@@ -1,0 +1,4 @@
+@EndUserText.label: 'Event Supply Chain Regulatory Compliance Plan'
+define service ZSCREVENT_I_CDS_SD {
+  expose ZSCREVENT_I_CDS;
+}
